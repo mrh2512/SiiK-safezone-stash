@@ -28,7 +28,7 @@ Stash opening is routed through **SiiK-bridge** so it works with qb-like invento
 - **qb-core**
 - **qb-target**
 - **oxmysql**
-- **SiiK-bridge**
+- **SiiK-bridge** https://github.com/mrh2512/SiiK-bridge
 
 ### Inventory Notes (Persistence)
 - The stash itself is opened through inventory events/exports.
